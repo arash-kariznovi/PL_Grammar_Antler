@@ -1,0 +1,36 @@
+#This is My Grammar
+# dar in file tamame khasiat haye grammar project test shode ast 
+class customer(){}
+
+class Bank extends customer(x_init : Int){
+    import matlib
+    import numpy
+    
+    private:
+     var Bank_id : Int = 2
+     var Bank_name : String = Mellat 
+    public:
+       def calculator(customer_id : Int , total_$ : Int) : String = {
+        customer_id= 2
+        total_$ = 1000
+        if(true){
+            while(false){
+#comment1 see the priority
+#comment2
+                account = - 1000 - 40*2
+                account =+ 2
+               
+            }
+        }
+        for(index <- (2,36) step 3){
+            save_Account =+ 2000
+        }
+	try {
+         #code
+        }
+        catch(false) {
+         #code
+        }
+	return account
+       }     
+}
